@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872648688793",
+    "project_id": "asynconf2-be541",
+    "storage_bucket": "asynconf2-be541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872648688793:android:3d3837edbdf7fcba946408",
+        "android_client_info": {
+          "package_name": "com.example.asynconf2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV86yDtpYOODOHUpE_EE0t6wpd16kbx9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
